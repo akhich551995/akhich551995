@@ -6,7 +6,7 @@ Machine Learning Engineer/ Data Scientist
 
 * 🌍  I'm based in Dallas, United States
 * ✉️  You can contact me at [akhilchoday@gmail.com](mailto:akhilchoday@gmail.com)
-* 🧠  I'm learning LLM, NLP, MLOPS
+* 🧠  I'm learning LLM, NLP, MLOPS, Reinforcement Learning
 
 ### Skills
 
